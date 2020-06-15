@@ -1,1 +1,1 @@
-# FakeNewsTweets
+# FakeNews
